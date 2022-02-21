@@ -7,8 +7,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 sdsdsd
 sdsdssdsd
-<<<<<<< HEAD
 cccc
-=======
-newnew
->>>>>>> 183fcf2 (fix bug 101)
